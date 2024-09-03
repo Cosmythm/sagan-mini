@@ -1,2 +1,16 @@
-# sagan-mini
-SAGAN Mini is a Python-based tool designed to convert astronomical spectral data into sound in real-time. Tailored for integration with observatories, this lightweight solution allows researchers to audibly monitor and analyze celestial events as they happen, providing an intuitive auditory representation of complex data.
+# Real-Time Spectral Sonification
+
+A Python tool for real-time sonification of spectral data, adaptable for use with any observatory.
+
+## Features
+
+- Convert spectral data into sound in real-time.
+- Flexible architecture allows integration with different observatory data streams.
+- Uses pre-trained models for feature extraction.
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/real-time-spectral-sonification.git
+   cd real-time-spectral-sonification
